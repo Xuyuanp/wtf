@@ -1,0 +1,2 @@
+# wtf
+test go mod
