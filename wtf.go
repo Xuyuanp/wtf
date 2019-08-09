@@ -1,6 +1,5 @@
 package wtf
 
-
-func WTF() string {
-	return "WTF"
+func WTF2() string {
+	return "WTF2"
 }
